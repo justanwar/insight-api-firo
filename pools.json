@@ -310,6 +310,13 @@
         ]
     },
     {
+        "poolName": "SoloPool",
+        "url": "http://xzc.solopool.org/",
+        "searchStrings": [
+            "/SoloPool/"
+        ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
