@@ -73,7 +73,8 @@
         "lru-cache": "^4.0.1",
         "mongodb": "^3.1.10",
         "morgan": "^1.7.0",
-        "request": "^2.64.0"
+        "request": "^2.64.0",
+	"pg-promise": "8.7.5"
     },
     "devDependencies": {
         "chai": "^3.5.0",
