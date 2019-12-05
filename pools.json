@@ -317,6 +317,13 @@
         ]
     },
     {
+        "poolName": "Zel Labs",
+        "url": "https://zellabs.net/",
+        "searchStrings": [
+            "/ZelLabs/"
+        ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
