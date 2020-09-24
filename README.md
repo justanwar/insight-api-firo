@@ -1,20 +1,9 @@
 # Insight API Zcoin
 
-
 Work in progress.
 
-#TODO:
-
-Create public api for Zcoin price ticker, integrate this in currency.js
-Create bitcore node zcoin.
-
-"zcore-lib": "^0.13.7", -- changed to github url
-    "bitcore-message-zcoin": "^1.0.1", -- also
-
-
-A Bitcoin blockchain REST and web socket API service for [Bitcore Node Zcoin](https://github.com/sn-ntu/bitcore-node-zcoin).
-
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/bitpay/insight-ui.
+## Latest changes
+April, 2020 - Transaction extra payload handling is supported
 
 ## Getting Started
 

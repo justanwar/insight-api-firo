@@ -324,6 +324,20 @@
         ]
     },
     {
+        "poolName": "BibopNet",
+        "url": "https://bibop.net/",
+        "searchStrings": [
+            "/Bibop.Net/"
+        ]
+    },
+    {
+        "poolName": "# Prohashing",
+        "url": "https://prohashing.com/",
+        "searchStrings": [
+            "prohashing.com"
+        ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
