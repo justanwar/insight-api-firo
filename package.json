@@ -2,27 +2,27 @@
   "_args": [
     [
       {
-        "raw": "zcoinofficial/insight-api-zcoin",
+        "raw": "firoorg/insight-api-zcoin",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "zcoinofficial/insight-api-zcoin",
-        "spec": "github:zcoinofficial/insight-api-zcoin",
+        "rawSpec": "firoorg/insight-api-zcoin",
+        "spec": "github:firoorg/insight-api-zcoin",
         "type": "hosted",
         "hosted": {
           "type": "github",
-          "ssh": "git@github.com:zcoinofficial/insight-api-zcoin.git",
-          "sshUrl": "git+ssh://git@github.com/zcoinofficial/insight-api-zcoin.git",
-          "httpsUrl": "git+https://github.com/zcoinofficial/insight-api-zcoin.git",
-          "gitUrl": "git://github.com/zcoinofficial/insight-api-zcoin.git",
-          "shortcut": "github:zcoinofficial/insight-api-zcoin",
-          "directUrl": "https://raw.githubusercontent.com/zcoinofficial/insight-api-zcoin/master/package.json"
+          "ssh": "git@github.com:firoorg/insight-api-zcoin.git",
+          "sshUrl": "git+ssh://git@github.com/firoorg/insight-api-zcoin.git",
+          "httpsUrl": "git+https://github.com/firoorg/insight-api-zcoin.git",
+          "gitUrl": "git://github.com/firoorg/insight-api-zcoin.git",
+          "shortcut": "github:firoorg/insight-api-zcoin",
+          "directUrl": "https://raw.githubusercontent.com/firoorg/insight-api-zcoin/master/package.json"
         }
       },
       "/home/ab_zcoin/Projects/insight/n"
     ]
   ],
-  "_from": "zcoinofficial/insight-api-zcoin",
+  "_from": "firoorg/insight-api-zcoin",
   "_id": "insight-api-zcoin@0.4.5",
   "_inCache": true,
   "_location": "/insight-api-zcoin",
@@ -33,35 +33,35 @@
     "elliptic": "6.4.0"
   },
   "_requested": {
-    "raw": "zcoinofficial/insight-api-zcoin",
+    "raw": "firoorg/insight-api-zcoin",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "zcoinofficial/insight-api-zcoin",
-    "spec": "github:zcoinofficial/insight-api-zcoin",
+    "rawSpec": "firoorg/insight-api-zcoin",
+    "spec": "github:firoorg/insight-api-zcoin",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:zcoinofficial/insight-api-zcoin.git",
-      "sshUrl": "git+ssh://git@github.com/zcoinofficial/insight-api-zcoin.git",
-      "httpsUrl": "git+https://github.com/zcoinofficial/insight-api-zcoin.git",
-      "gitUrl": "git://github.com/zcoinofficial/insight-api-zcoin.git",
-      "shortcut": "github:zcoinofficial/insight-api-zcoin",
-      "directUrl": "https://raw.githubusercontent.com/zcoinofficial/insight-api-zcoin/master/package.json"
+      "ssh": "git@github.com:firoorg/insight-api-zcoin.git",
+      "sshUrl": "git+ssh://git@github.com/firoorg/insight-api-zcoin.git",
+      "httpsUrl": "git+https://github.com/firoorg/insight-api-zcoin.git",
+      "gitUrl": "git://github.com/firoorg/insight-api-zcoin.git",
+      "shortcut": "github:firoorg/insight-api-zcoin",
+      "directUrl": "https://raw.githubusercontent.com/firoorg/insight-api-zcoin/master/package.json"
     }
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git://github.com/zcoinofficial/insight-api-zcoin.git#339b61ebaf4e6fb833a9a217c6ad6b151f166408",
+  "_resolved": "git://github.com/firoorg/insight-api-zcoin.git#339b61ebaf4e6fb833a9a217c6ad6b151f166408",
   "_shasum": "73814a6737b0d66d7b8bc5c1965f1e91fc033ba8",
   "_shrinkwrap": null,
-  "_spec": "zcoinofficial/insight-api-zcoin",
+  "_spec": "firoorg/insight-api-zcoin",
   "_where": "/home/ab_zcoin/Projects/insight/n",
   "bitcoreNode": "lib",
   "bugs": {
-    "url": "https://github.com/zcoinofficial/insight-api-zcoin/issues"
+    "url": "https://github.com/firoorg/insight-api-zcoin/issues"
   },
   "contributors": [
     {
@@ -99,7 +99,7 @@
   ],
   "dependencies": {
     "async": "*",
-    "bitcore-message-zcoin": "github:zcoinofficial/bitcore-message-zcoin",
+    "bitcore-message-zcoin": "github:firoorg/bitcore-message-zcoin",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "decimal.js": "^10.0.2",
@@ -110,7 +110,7 @@
     "morgan": "^1.7.0",
     "pg-promise": "8.7.5",
     "request": "^2.64.0",
-    "zcore-lib": "github:zcoinofficial/zcore-lib"
+    "zcore-lib": "github:firoorg/zcore-lib"
   },
   "description": "A Zcoin blockchain REST and web socket API service for Bitcore Node.",
   "devDependencies": {
@@ -124,7 +124,7 @@
     "node": ">=0.12.0"
   },
   "gitHead": "339b61ebaf4e6fb833a9a217c6ad6b151f166408",
-  "homepage": "https://github.com/zcoinofficial/insight-api-zcoin",
+  "homepage": "https://github.com/firoorg/insight-api-zcoin",
   "keywords": [
     "insight",
     "insight api",
