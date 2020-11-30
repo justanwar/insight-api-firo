@@ -338,6 +338,13 @@
         ]
     },
     {
+      "poolName": "XPOOLX",
+      "url": "https://xpoolx.com/",
+      "searchStrings": [
+        "xpoolx"
+      ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
