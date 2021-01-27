@@ -352,6 +352,13 @@
       ]
     },
     {
+      "poolName": "DAPOOL",
+      "url": "https://dapool.io/",
+      "searchStrings": [
+        "dapool.io"
+      ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
