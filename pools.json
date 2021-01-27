@@ -345,6 +345,13 @@
       ]
     },
     {
+      "poolName": "WhibbitPool",
+      "url": "https://pool.whibbit.cn/",
+      "searchStrings": [
+        "Whibbit Pool"
+      ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
