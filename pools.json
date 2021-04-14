@@ -359,6 +359,13 @@
       ]
     },
     {
+      "poolName": "Speedpool",
+      "url": "https://equihash.speedpool.top",
+      "searchStrings": [
+        "speedpool.top"
+      ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
