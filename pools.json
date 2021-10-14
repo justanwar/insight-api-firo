@@ -366,6 +366,13 @@
       ]
     },
     {
+      "poolName": "WoolyPooly",
+      "url": "https://woolypooly.com/",
+      "searchStrings": [
+        "WoolyPooly"
+      ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
