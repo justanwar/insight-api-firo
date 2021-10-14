@@ -345,6 +345,34 @@
       ]
     },
     {
+      "poolName": "WhibbitPool",
+      "url": "https://pool.whibbit.cn/",
+      "searchStrings": [
+        "Whibbit Pool"
+      ]
+    },
+    {
+      "poolName": "DAPOOL",
+      "url": "https://dapool.io/",
+      "searchStrings": [
+        "dapool.io"
+      ]
+    },
+    {
+      "poolName": "Speedpool",
+      "url": "https://equihash.speedpool.top",
+      "searchStrings": [
+        "speedpool.top"
+      ]
+    },
+    {
+      "poolName": "WoolyPooly",
+      "url": "https://woolypooly.com/",
+      "searchStrings": [
+        "WoolyPooly"
+      ]
+    },
+    {
         "poolName": "Miningpoolhub",
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
