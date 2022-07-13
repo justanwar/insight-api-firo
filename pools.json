@@ -306,7 +306,7 @@
         "poolName": "Zergpool",
         "url": "http://zergpool.com/",
         "searchStrings": [
-            "/Zergpool.com/"
+            "/Zergpool.com/",
             "/@zergpool/stratum/"
         ]
     },
