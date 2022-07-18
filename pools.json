@@ -393,5 +393,12 @@
         "searchStrings": [
             "Cruxpool"
         ]
+    },
+    {
+        "poolName": "MinerPool",
+        "url": "https://firo.minerpool.org",
+        "searchStrings": [
+            "MinerPool"
+        ]
     }
 ]
