@@ -306,7 +306,8 @@
         "poolName": "Zergpool",
         "url": "http://zergpool.com/",
         "searchStrings": [
-            "/Zergpool.com/"
+            "/Zergpool.com/",
+            "/@zergpool/stratum/"
         ]
     },
     {
@@ -377,6 +378,56 @@
         "url": "https://miningpoolhub.com/",
         "searchStrings": [
             "/mph/"
+        ]
+    },
+    {
+        "poolName": "Molepool",
+        "url": "https://molepool.com/",
+        "searchStrings": [
+            "/Molepool/"
+        ]
+    },
+    {
+        "poolName": "Cruxpool",
+        "url": "https://www.cruxpool.com/",
+        "searchStrings": [
+            "Cruxpool"
+        ]
+    },
+    {
+        "poolName": "MinerPool",
+        "url": "https://firo.minerpool.org",
+        "searchStrings": [
+            "MinerPool"
+        ]
+    },
+    {
+        "poolName": "BadHasher",
+        "url": "https://badhasher.com/pool/Firo",
+        "searchStrings": [
+            "badhasher",
+            "coinminerz"
+        ]
+    },
+    {
+        "poolName": "RaptorHash",
+        "url": "https://raptorhash.com/",
+        "searchStrings": [
+            "raptorhash"
+        ]
+    },
+    {
+        "poolName": "K1Pool",
+        "url": "https://k1pool.com",
+        "searchStrings": [
+            "K1Pool"
+        ]
+    },
+    {
+        "poolName": "Picopool",
+        "url": "https://picopool.org/",
+        "searchStrings": [
+            "p⋅i⋅c⋅o⋅p⋅o⋅o⋅l"
         ]
     }
 ]
